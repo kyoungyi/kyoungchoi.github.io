@@ -82,7 +82,13 @@ analytics:
 author:
   name             : "Eunkyoung (Kyoung) Choi"
   avatar           : "kyoung.JPG"
-  bio              : "Dreams are my reality \nPh.D Candidate \n Studying climate risk-agriculture \nColorado State University"
+  bio              : 'Dreams are my reality
+                     \n
+                    Ph.D Candidate
+                    \n
+                    Studying climate risk-agriculture
+                    \n
+                    Colorado State University'
   location         : "Colorado, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
