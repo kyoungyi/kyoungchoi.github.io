@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eunkyoung (Kyoung) Choi"
+  name             : "Eunkyoung Choi"
   avatar           : "kyoung.JPG"
-  bio              : "Dreams are my reality\Ph.D Candidate\Studying climate risk-agriculture\Colorado State University"
+  bio              : "Ph.D Candidate studying climate risk-agriculture"
   location         : "Colorado, USA"
-  employer         :
+  employer         : "Colorado State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=A5qhQVgAAAAJ&hl=en"
   email            : "kyoung.choi@colostate.edu"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "eunkyoungchoi2"
   vine             :
   weibo            :
   xing             :
