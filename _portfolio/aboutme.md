@@ -1,5 +1,5 @@
 ---
-#title: ""
+title: ""
 excerpt: ' 
 🕵 Hi there, my name is Eunkyoung Choi (I go by Kyoung). <br>
 I come from Busan, S.Korea, a beautiful ocean city (see the below photos). In 2018, I moved to the US for my life exploration and goals - to become a climate risk scientist who helps the interface of physical and social sciences by understanding both fields.<br>
@@ -10,7 +10,8 @@ Prior to my PhD journey at Colorado, I did my masters in Atmospheric Sciences at
 <br>
 Having grown up in S. Korea and expanded my horizons in both the private and public sectors worldwide, I have always been driven by a quest for knowledge and self-improvement. I am constantly discovering myself, nurturing my dreams, and shaping my perspectives 🌎.<br>
 <br>
-| <img src="/images/pic0.jpg" style="width:100%" /> | <img src="/images/pic1.jpg" style="width:100%" /> | <img src="/images/pic3.jpg" style="width:100%" /> |
+<br>
+<img src="/images/pic0.jpg" style="width:100%" /> | <img src="/images/pic1.jpg" style="width:100%" /> | <img src="/images/pic3.jpg" style="width:100%" /> 
 '
 
 
