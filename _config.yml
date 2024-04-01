@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kyoung's Homepage"
+title                    : "Eunkyoung (Kyoung) Choi"
 title_separator          : "-"
 name                     : &name "Eunkyoung (Kyoung) Choi"
 description              : &description ""
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eunkyoung Choi"
+  name             : ""
   avatar           : "kyoung.JPG"
   bio              : "Ph.D Candidate studying climate risk-agriculture"
   location         : "Colorado, USA"
