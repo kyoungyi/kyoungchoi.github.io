@@ -10,17 +10,7 @@ Prior to my PhD journey at Colorado, I did my masters in Atmospheric Sciences at
 <br>
 Having grown up in S. Korea and expanded my horizons in both the private and public sectors worldwide, I have always been driven by a quest for knowledge and self-improvement. I am constantly discovering myself, nurturing my dreams, and shaping my perspectives 🌎.<br>
 <br>
-<div class="row">
-  <div class="column">
-  <img src="/images/pic0.jpg" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/pic1.jpg" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/pic3.jpg" style="width:100%">
-  </div>
-</div>
+| <img src="/images/pic0.jpg" style="width:100%" /> | <img src="/images/pic1.jpg" style="width:100%" /> | <img src="/images/pic3.jpg" style="width:100%" /> |
 '
 
 
