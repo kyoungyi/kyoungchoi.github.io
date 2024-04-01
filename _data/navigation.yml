@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Kyoung"
-    url: /_portfolio/aboutme.md
+    url: /portfolio/aboutme.md
   
   - title: "CV"
-    url: /files/CV_kyoung2024.pdf
+    url: /files/CV_Kyoung2024.pdf
   
   - title: "Publications"
     url: https://scholar.google.com/citations?user=A5qhQVgAAAAJ&hl=en
