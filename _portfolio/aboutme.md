@@ -13,9 +13,9 @@ Please feel free to connect with me if you have any questions (e.g., science, wo
 <br>
 <br>
 <p align="center">
-<img width="30%" height="20%" src="/images/pic0.jpg">
-<img width="30%" height="20%" src="/images/pic1.jpg">
-<img width="30%" height="20%" src="/images/pic3.jpg">
+  <img width="30%" height="20%" src="/images/pic0.jpg">
+  <img width="30%" height="20%" src="/images/pic1.jpg">
+  <img width="30%" height="20%" src="/images/pic3.jpg">
 </p>
 
 
