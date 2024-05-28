@@ -10,22 +10,24 @@ redirect_from:
 
 <br>
 👩‍💻 I’m a PhD candidate in the Department of Ecosystem Science and Sustainability at Colorado State University.
-</br>
+<br>
 <br>
 🔍 My research focuses on the intersection of physical climate and scoio-economic sciences. I use statistical models to:
 - **improve the systematic assessment of climate risk for agricultural systems**; and
 - **identify adaptation gaps**
-</br>
 <br>
-</br>
-<h1 align="center">📚 My Research Foci</h1>
+<br>
+<br>
+<br>
+<h1 align="center"> 📚 My Research Foci📚 </h1>
+<hr/>
 <img align="center" src="/images/research_fig1.png.jpg">
 <h1 align="center">Risk       =     Hazards 🌦️    +   Exposure  ⛰️      +    Vulnerability 👩‍🌾</h1>
 
 
 ## 🌦️ Hazards:
-### 🌾 Impact of drought and waterlogging on crop yields:
 <img align="right" width="30%" height="20%" src="/images/hydro_fig.jpg">
+### 🌾 Impact of drought and waterlogging on crop yields:
 Hydroclimatic stresses, such as droughts and flooding, have significantly impacted US crop yields, accounting for more than 50% of the federal insurance payouts for crop yield loss since 1989. [In this study](https://iopscience.iop.org/article/10.1088/1748-9326/ad0c87#:~:text=Hydroclimatic%20stresses%20can%20negatively%20impact,scales%20is%20not%20well%20understood.), I identified crop-specific yield sensitivities to soil water supply-atmospheric water demand, estimating historical spatial-temporal patterns of yield losses.
 <br>
 <br>
