@@ -9,15 +9,14 @@ redirect_from:
 ---
 
 
-👩‍💻 With diverse experience in both private and public sectors, I’m advancing my interdisciplinary background by pursuing a PhD in Ecosystem Science and Sustainability at Colorado State University.
+👩‍💻 I’m a PhD candidate in the Department of Ecosystem Science and Sustainability at Colorado State University.
 
 🔍 My research focuses on the intersection of physical climate and scoio-economic sciences. I am particularly interested in **improving the systematic assessment of climate risk for agricultural systems** and **identifying adaptation gaps, using statistical models (e.g., econometric and machine learning approaches)**.
 
-📚 My current projects involve **assessing climate risks for US crop and milk yields** by quantifying spatio-temporal variations in physical climate hazards, exposure to the hazards, and relative vulnerability. 
 
-# My Research Foci 
+# My Research Foci
+📚 My PhD research is: 
 <img src="images/research_fig1.png.jpg">
-Agricultural production is heavily influenced by weather conditions and socioeconomic factors. Understanding  the “Hazard + Exposure + Vulnerability” framework in agricultural systems is crucial for accurately estimating the impacts of climate change on agricultural production and enhancing resilience via effective adaptation actions.
 
 ## 🌦️ Hazards:
 ### 🌾 Impact of drought and waterlogging on crop yields:
