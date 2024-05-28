@@ -12,8 +12,11 @@ I am deepening my grasp of scientific principles, constantly discovering myself,
 Please feel free to connect with me if you have any questions (e.g., science, women in science, international students, etc.)!
 <br>
 <br>
-<img src="/images/pic0.jpg" style="width: 50%; height: 30%" /> <img src="/images/pic1.jpg" style="width: 50%; height: 30%" /> <img src="/images/pic3.jpg" style="width: 50%; height: 30%" /> 
-'
+<p align="center">
+<img width="30%" height="20%" src="/images/pic0.jpg">
+<img width="30%" height="20%" src="/images/pic1.jpg">
+<img width="30%" height="20%" src="/images/pic3.jpg">
+</p>
 
 
 collection: portfolio
