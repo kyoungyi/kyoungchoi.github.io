@@ -84,12 +84,12 @@ author:
   avatar           : "kyoung.JPG"
   bio              : "Ph.D Candidate studying climate risk-agriculture"
   location         : "Colorado, USA"
-  employer         : "Colorado State University"
+  employer         : #"Colorado State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=A5qhQVgAAAAJ&hl=en"
   email            : "kyoung.choi@colostate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "ascilab.colostate.edu"
+  uri              : #"ascilab.colostate.edu"
   bitbucket        :
   codepen          :
   dribbble         :
