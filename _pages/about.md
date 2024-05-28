@@ -11,11 +11,12 @@ redirect_from:
 
 👩‍💻 I’m a PhD candidate in the Department of Ecosystem Science and Sustainability at Colorado State University.
 
-🔍 My research focuses on the intersection of physical climate and scoio-economic sciences. I am particularly interested in **improving the systematic assessment of climate risk for agricultural systems** and **identifying adaptation gaps, using statistical models (e.g., econometric and machine learning approaches)**.
+🔍 My research focuses on the intersection of physical climate and scoio-economic sciences. I am particularly interested in:
+- **improving the systematic assessment of climate risk for agricultural systems**; and
+- **identifying adaptation gaps, using statistical models (e.g., econometric and machine learning approaches)**.
+<br>
 
-
-# My Research Foci
-📚 My PhD research is: 
+<h2 style="text-align: center;">📚 My Research Foci</h2>
 <img src="images/research_fig1.png.jpg">
 
 ## 🌦️ Hazards:
