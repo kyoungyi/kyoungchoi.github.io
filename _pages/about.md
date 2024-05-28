@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Kyoung's Homepage!"
+title: "Eunkyoung (Kyoung) Choi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
