@@ -16,8 +16,7 @@ redirect_from:
 📚 My current projects involve **assessing climate risks for US crop and milk yields** by quantifying spatio-temporal variations in physical climate hazards, exposure to the hazards, and relative vulnerability. 
 
 # My Research Foci 
-<img src="images/research_fig1.png.jpg" style="width: 80%; height: 50%" />
-
+<img src="images/research_fig1.png.jpg">
 Agricultural production is heavily influenced by weather conditions and socioeconomic factors. Understanding  the “Hazard + Exposure + Vulnerability” framework in agricultural systems is crucial for accurately estimating the impacts of climate change on agricultural production and enhancing resilience via effective adaptation actions.
 
 ## 🌦️ Hazards:
