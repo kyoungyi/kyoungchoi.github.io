@@ -45,3 +45,5 @@ Climate variability and change drive the impacts of physical climate hazards on 
 
 ## 👩‍🌾 Vulnerability:
 Adaptive capacities, such as in-situ adaptation strategies or socio-economic background of agricultural operators, can adjust the consequences of yield loss from climate hazards and exposure. This study assesses **the impact of agricultural socio-economic factors on crop yield losses identified by the aforementioned hazard and exposure**.
+
+I am very grateful for having wonderful collaborators in my PhD research and always welcome potential collaborative opportunities!
