@@ -12,7 +12,7 @@ redirect_from:
 👩‍💻 I’m a PhD candidate in the Department of Ecosystem Science and Sustainability at Colorado State University.
 <br>
 <br>
-🔍 My research focuses on the intersection of physical climate and scoio-economic sciences. I use statistical models to:
+🔍 My research focuses on the intersection of physical climate and scoio-economic sciences. I use statistical and machine learning models to:
 - **improve the systematic assessment of climate risk for agricultural systems**; and
 - **identify adaptation gaps**
 <br>
