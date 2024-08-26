@@ -36,7 +36,7 @@ Hydroclimatic stresses, such as droughts and flooding, have significantly impact
 <img align="right" width="30%" height="20%" src="/images/milk_summary_fig.jpg">
 Heat stress is a major factor in reducing milk yields, causing approximately $2 billion in economic losses. While the impact of heat stress is well-documented at the physiological level using animal-level heat stress indices, its application at national and subnational scales remains uncertain. [To address this gap](https://www.journalofdairyscience.org/article/S0022-0302(24)00733-1/fulltext), I systematically compared the performance of four commonly used thermal indices in quantifying milk yield changes due to thermal stress at national scales. The study provides important insights into the applicability of animal-based thermal indices and the limitations of using fixed thresholds for large-scale milk yield assessment.
 
-**Currently, I’m developing a new thermal stress index using explainable machine learning**.
+**Currently, I’m examining the relationships between different weather variables and milk yields as well as their related economic losses, using explainable machine learning**.
 <br>
 <br>
 ## ⛰️ Exposure:
