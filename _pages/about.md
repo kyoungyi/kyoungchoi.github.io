@@ -12,17 +12,17 @@ redirect_from:
 👩‍💻 I’m a PhD candidate in the Department of Ecosystem Science and Sustainability at Colorado State University.
 <br>
 <br>
-🔍 My research interests generally include the intersection of physical climate and scoio-economic sciences, particularly extreme weather events and agricultural systems. I use statistical approaches including econometic and machine learning models.
+🔍 My research interests generally include the relationship between extreme weather events and agricultural systems. 
 <br>
-My current research goals are to:
-- **improve the systematic assessment of historical climate risk for agricultural production**; and
-- **identify adaptation gaps**
-<br>
-<br>
-My future interests include the **attribution of extreme weather events for agricultural yield and economic losses** and **yield predictions from heat and moisture stresses** using **machine learning models**.
+I am particularly interested in answering to the following questions:
+- How did and will extreme weather events change agricultural production in the context of hazards, exposure, and vulnerability?
+- How do meterological, climate, and agricultural drivers attribute yield losses from extreme weather events?
+- How are economic losses linked to the impacts of extreme weather events on agricultural production?
 <br>
 <br>
-<h1 align="center"> 📚 My Research Foci📚 </h1>
+<br>
+<br>
+<h1 align="center"> 📚 My Current Research Foci📚 </h1>
 <hr/>
 <img align="center" src="/images/research_fig1.png.jpg">
 <h1 align="center">Risk       =     Hazards 🌦️    +   Exposure  ⛰️      +    Vulnerability 👩‍🌾</h1>
