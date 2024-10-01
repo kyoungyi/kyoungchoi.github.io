@@ -12,11 +12,14 @@ redirect_from:
 👩‍💻 I’m a PhD candidate in the Department of Ecosystem Science and Sustainability at Colorado State University.
 <br>
 <br>
-🔍 My research focuses on the intersection of physical climate and scoio-economic sciences. I use statistical and machine learning models to:
-- **improve the systematic assessment of climate risk for agricultural systems**; and
+🔍 My research interests generally include the intersection of physical climate and scoio-economic sciences, particularly extreme weather events and agricultural systems. I use statistical approaches including econometic and machine learning models.
+<br>
+My current research goals are to:
+- **improve the systematic assessment of historical climate risk for agricultural production**; and
 - **identify adaptation gaps**
 <br>
 <br>
+My future interests include the **attribution of extreme weather events for agricultural yield and economic losses** and **yield predictions from heat and moisture stresses** using **machine learning models**.
 <br>
 <br>
 <h1 align="center"> 📚 My Research Foci📚 </h1>
