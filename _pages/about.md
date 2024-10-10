@@ -15,9 +15,9 @@ redirect_from:
 🔍 My research interests generally include the relationship between extreme weather events and agricultural systems. 
 <br>
 I am particularly interested in answering to the following questions by using econometric and machine learning models:
-- How did and will *extreme weather events change agricultural production* in the context of *hazards, exposure, and vulnerability (risk)*?
-- How do *meterological, climate, and agricultural drivers attribute yield losses from extreme weather* events?
-- How are *economic losses* linked to the impacts of extreme weather events on agricultural production?
+- How did and will **extreme weather events change agricultural production** in the context of **hazards, exposure, and vulnerability (risk)**?
+- How do **meterological, climate, and agricultural drivers attribute yield losses from extreme weather** events?
+- How are **economic losses** linked to the impacts of extreme weather events on agricultural production?
 <br>
 <br>
 <br>
